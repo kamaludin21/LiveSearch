@@ -2,4 +2,5 @@
     <string name="app_name">Live Search</string>
     <string name="name">Nama</string>
     <string name="email">Email</string>
+    <string name="search">Cari</string>
 </resources>
